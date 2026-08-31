@@ -12,7 +12,7 @@
 <!-- GIF PRINCIPAL -->
 
 <img
-  src="./assets/GifFithub.webp"
+  src="./assets/GifGithub.webp"
   width="600"
   alt="Cyberpunk banner"
 />
