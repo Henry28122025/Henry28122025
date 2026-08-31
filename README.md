@@ -13,41 +13,61 @@
 
 <h3>Languages I Use</h3>
 
-<p>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="30"
-    height="30"
-    alt="JavaScript"
-  />
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        width="35"
+        height="35"
+        alt="JavaScript"
+      />
+      <br>
+      <b>JavaScript</b>
+      <br>
+      <sub>35%</sub>
+    </td>
 
-  &nbsp;&nbsp;
+    <td align="center" width="95">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+        width="35"
+        height="35"
+        alt="C#"
+      />
+      <br>
+      <b>C#</b>
+      <br>
+      <sub>35%</sub>
+    </td>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-    width="30"
-    height="30"
-    alt="C#"
-  />
+    <td align="center" width="95">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+        width="35"
+        height="35"
+        alt="HTML"
+      />
+      <br>
+      <b>HTML</b>
+      <br>
+      <sub>15%</sub>
+    </td>
 
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    width="30"
-    height="30"
-    alt="HTML"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    width="30"
-    height="30"
-    alt="CSS"
-  />
-</p>
+    <td align="center" width="95">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        width="35"
+        height="35"
+        alt="CSS"
+      />
+      <br>
+      <b>CSS</b>
+      <br>
+      <sub>15%</sub>
+    </td>
+  </tr>
+</table>
 
 <p>
 🎓 IT Technical Student &nbsp; • &nbsp;
