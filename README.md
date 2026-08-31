@@ -14,7 +14,11 @@
 <h3>Languages I Use</h3>
 
 <!-- LANGUAGES_START -->
-<p>As linguagens aparecerão aqui automaticamente após executar o GitHub Action.</p>
+<table align="center">
+<tr>
+<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python"><br><b>Python</b><br><sub>100.0%</sub></td>
+</tr>
+</table>
 <!-- LANGUAGES_END -->
 
 <p>
