@@ -14,20 +14,40 @@
 <h3>Languages I Use</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" alt="CSS"/>
-</p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="30"
+    height="30"
+    alt="JavaScript"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry28122025&layout=compact&theme=dark&hide_border=true"
-  width="280"
-  alt="Languages"
-/>
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    width="30"
+    height="30"
+    alt="C#"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="30"
+    height="30"
+    alt="HTML"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="30"
+    height="30"
+    alt="CSS"
+  />
+</p>
 
 <p>
 🎓 IT Technical Student &nbsp; • &nbsp;
