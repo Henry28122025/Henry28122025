@@ -6,7 +6,7 @@
 />
 
 <img
-  src="./assets/GifGithub.webp"
+  src="./assets/yeah.gif"
   width="300"
   alt="Cyberpunk banner"
 />
